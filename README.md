@@ -7,6 +7,9 @@ Support our creative streamers.
 
 Here are the parts sorced by amazon, they can be found elsewhere.
 Althought the jack have not been reccomended.
+<br>
 JACKS::     http://a.co/exKS1Kq 
+<br>
 Cable::     http://a.co/8xe52Lq 
+<br>
 Headerpins: http://a.co/jcScOY5
